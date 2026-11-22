@@ -1,5 +1,5 @@
-First file - line 1
-First file - line 2
+First file - line 1 edited in folder2
+First file - line 2 edited in folder2
 First file - line 3 edited in step 7
 First file - line 4 edited in step 7
 First file - line 5
