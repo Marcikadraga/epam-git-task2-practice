@@ -1,7 +1,7 @@
 First file - line 1
 First file - line 2
-First file - line 3
-First file - line 4
+First file - line 3 edited in step 7
+First file - line 4 edited in step 7
 First file - line 5
 First file - line 6
 First file - line 7
