@@ -1,7 +1,7 @@
 Second file - line 1
 Second file - line 2
-Second file - line 3
-Second file - line 4
+Second file - line 3 edited on git_2
+Second file - line 4 edited on git_2
 Second file - line 5
 Second file - line 6
 Second file - line 7
